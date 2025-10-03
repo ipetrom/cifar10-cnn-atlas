@@ -1,9 +1,10 @@
 _the project was developed in December 2024_
 
 
-# CIFAR-10 CNN (Atlas) — Notebook Overview
+# Convolutional neural network for CIFAR10 dataset 
 
 This repository contains a Jupyter Notebook that implements a convolutional neural network (CNN) trained on the CIFAR-10 dataset. The notebook demonstrates a full workflow from data loading and preprocessing, through model definition and training, to evaluation and visualization.
+
 ---
 
 ## Project summary
