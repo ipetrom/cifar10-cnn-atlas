@@ -21,7 +21,7 @@ This repository contains a Jupyter Notebook that implements a convolutional neur
   - Visualizations for samples and training progress
   - Model saving (PyTorch)
 
-## Model architecture (high level)
+## Model architecture
 
 - Conv blocks:
   - 3 → 32 → BatchNorm → ReLU
